@@ -43,7 +43,7 @@
 /* Flat button
 -------------------------------------------------------------- */
 .flat-button {
-    padding: 18px 100px;
+/*     padding: 18px 100px; */
     border-radius: 10px;
     font-size: 50px;
     font-weight: bold;
