@@ -399,8 +399,8 @@
 
 .custom-description span {  
     font-family: "Pacifico";  
-    font-size: 30px;
-    line-height: 98px;
+    font-size: 29px;
+    line-height: 90px;
     color: #003883;
     margin-top: 0;
     margin-bottom: 20px;
@@ -421,7 +421,7 @@
 
 .custom-description .title2 {  
     font-family: "inherit", sans-serif;  
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     line-height: 30px;
     color:#d20073;
@@ -437,7 +437,7 @@
 .process-description {
     display: block;
     padding: 40px 30px 30px 30px;
-    margin-left: 40px;
+    margin-left: 0px;
     margin-bottom: 10px;
     position: relative;
     z-index: 30;
@@ -464,7 +464,7 @@
     font-family: "inherit", sans-serif;  
     font-size: 15px;
     font-weight: 700;
-    line-height: 10px;
+    line-height: 30px;
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -592,12 +592,12 @@
     text-transform: uppercase; 
     -webkit-transition: all ease .238s;
     -moz-transition: all ease .238s;
+}
     transition: all ease .238s;
 }
 
 .requestform input[type="submit"]:hover {
     background: #333;
-}
 
 /* IconBox
 -----------------------------------------------------------*/
@@ -3248,7 +3248,7 @@ ul.flat-list.use-icon li:after {
 .flat-contact-info {
     padding: 40px 30px 30px 30px;
     border: 3px solid #f2f2f2;
-    margin-left: 40px;
+    margin-left: 0px;
 }
 .flat-contact-info .submit-wrap{
     width: 100%;
@@ -3257,10 +3257,11 @@ ul.flat-list.use-icon li:after {
 
 h4.title-contact-info {
     margin-bottom: 30px;
-    font-size: 14px;
+    font-size: 18px;
     color: #333;
     font-weight: 700;
-    margin-left: 40px;
+    margin-left: 0px;
+	line-height: 30px;
 }
 
 .flat-contact-info li {
