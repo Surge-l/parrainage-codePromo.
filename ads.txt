@@ -1,1 +1,10 @@
-google.com, pub-4979203418391274, DIRECT, f08c47fec0942fa0
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11230826947">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11230826947');
+</script>
